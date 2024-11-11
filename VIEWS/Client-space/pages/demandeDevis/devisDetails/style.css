@@ -1,0 +1,159 @@
+@page {
+    margin: 0px;
+}
+body {
+    margin: 0;
+    font-family: "Calistoga", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+p {
+    font-family: "Calistoga", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+
+table {
+width: 100%;
+margin-top: 20px;
+}
+
+td {
+    font-family: "Calistoga", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+th {
+text-align: center;
+padding : 10px;
+}
+
+.container {
+padding: 20px;
+}
+
+.text-right {
+text-align: right;
+}
+
+
+
+.left-content {
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+
+
+.left-content h1 {
+font-size: 30px;
+font-weight: bold;
+}
+
+.right-content {
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.large-text {
+font-size: 50px;
+}
+
+.underline {
+text-decoration: underline;
+color: white ;
+}
+
+.custom-h2 {
+font-size: 20px; 
+text-transform: uppercase; 
+font-family: Arial, sans-serif; 
+color: #251261; 
+}
+
+.custom-p {
+font-weight: bold; 
+text-transform: uppercase; 
+color: #DEC949; 
+font-size: 22px; 
+font-style: italic;
+}
+
+.custom-divider {
+border: none;
+border-top: 2px solid #DEC949; /* Couleur jaune */
+margin: 10px 0; /* Marge pour l'espace */
+width: 150px;
+}
+
+.custom-table {
+width: 100%;
+border-collapse: collapse;
+}
+
+.custom-table thead th {
+background-color: #DEC949; /* Couleur de fond jaune pour l'en-tête */
+color: black; /* Couleur du texte en gras noir */
+font-size: 15px;
+padding: 15px;
+font-family: "Alfa Slab One", serif;
+font-weight: 400;
+font-style: normal;
+}
+
+.custom-table tbody tr:nth-child(odd) {
+background-color: #f2f2f2c8;
+
+}
+
+.custom-table tbody tr:nth-child(even) {
+background-color: white; /* Couleur de fond des lignes paires */
+}
+
+.custom-table tbody td {
+border: 1px solid #ccc; /* Bordures des cellules */
+padding: 10px; /* Espacement interne des cellules */
+}
+
+.mini-table {
+width: 100%;
+border-collapse: collapse;
+border-radius: 8px; /* Ajout du rayon de bordure */
+overflow: hidden; /* Masquer les coins arrondis qui dépassent */
+}
+
+.mini-table td {
+border: 1px solid #ccc;
+padding: 8px;
+text-align: center;
+
+}
+
+.mini-table td:first-child {
+    font-family: "Alfa Slab One", serif;
+}
+
+.last-row {
+background-color: #DEC949; 
+
+}
+
+.signature {
+border: none;
+border-top: 2px solid black; 
+width : 50% ;
+}
+
+
+.alfa-slab one-regular {
+    font-family: "Alfa Slab One", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  

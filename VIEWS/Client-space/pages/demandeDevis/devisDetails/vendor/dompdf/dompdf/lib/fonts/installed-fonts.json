@@ -1,0 +1,33 @@
+{
+    "fontawesome": {
+        "normal": "fontawesome_normal_7ea195556637d817f455524c7885b526"
+    },
+    "alfa slab one": {
+        "normal": "alfa_slab_one_normal_01539a14b90c95ff817f8c1ce20d8710"
+    },
+    "calistoga": {
+        "normal": "calistoga_normal_d175abedfde5b514675318464ba717a3"
+    },
+    "font awesome 5 brands": {
+        "normal": "font_awesome_5_brands_normal_6b898e2c5cc213c4404811c323fdcab6"
+    },
+    "font awesome 5 free": {
+        "normal": "C:\\xampp\\htdocs\\projetUniformeSte\\VIEWS\\Client-space\\pages\\demandeDevis\\devisDetails\\vendor\\dompdf\\dompdf\/lib\/fonts\/font_awesome_5_free_normal_09a636486ad6e3e7e715ee5a0373f2ab",
+        "900": "font_awesome_5_free_900_f6c1d66ca0f6a9c230936770c324b606"
+    },
+    "feather": {
+        "normal": "feather_normal_4019b85992b78094836c74a3e7d34043"
+    },
+    "themify": {
+        "normal": "themify_normal_796df2063860927907e467acb55c78fc"
+    },
+    "material design icons": {
+        "normal": "material_design_icons_normal_a02a2dc675dce4e59d58bebdd2d6477f"
+    },
+    "nunito": {
+        "300": "C:\\xampp\\htdocs\\projetUniformeSte\\VIEWS\\Client-space\\pages\\demandeDevis\\devisDetails\\vendor\\dompdf\\dompdf\/lib\/fonts\/nunito_300_fd7c6b6838b59146bf28d375bb7e6bc5",
+        "bold": "C:\\xampp\\htdocs\\projetUniformeSte\\VIEWS\\Client-space\\pages\\demandeDevis\\devisDetails\\vendor\\dompdf\\dompdf\/lib\/fonts\/nunito_bold_ec09b15aba62001c78bb1b99a5185474",
+        "500": "C:\\xampp\\htdocs\\projetUniformeSte\\VIEWS\\Client-space\\pages\\demandeDevis\\devisDetails\\vendor\\dompdf\\dompdf\/lib\/fonts\/nunito_500_dbf76db885bed585f0918d2184dbcddc",
+        "normal": "nunito_normal_db18f084ea774da755f5293559473340"
+    }
+}
